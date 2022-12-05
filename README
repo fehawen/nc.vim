@@ -1,0 +1,16 @@
+nc.vim
+======
+
+An almost no-color colorscheme for Vim to keep things plain.
+
+
+Install
+-------
+
+Install using `plug`
+
+    Plug 'fehawen/nc.vim'
+
+Add the following to your `.vimrc`
+
+    colorscheme nc
